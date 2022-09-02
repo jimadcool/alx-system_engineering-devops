@@ -1,4 +1,0 @@
-#!/bin/bash
-pwd
-chmod 755 0-current_working_directory
-
